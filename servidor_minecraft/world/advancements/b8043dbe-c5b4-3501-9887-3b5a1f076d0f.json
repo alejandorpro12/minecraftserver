@@ -23,6 +23,24 @@
     },
     "done": true
   },
+  "additionalguns:recipes/additionalguns/unica": {
+    "criteria": {
+      "has_planks": "2025-06-29 19:08:26 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/akm": {
+    "criteria": {
+      "has_planks": "2025-06-29 19:08:26 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/aks74u": {
+    "criteria": {
+      "has_planks": "2025-06-29 19:08:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-06-29 18:40:00 +0000"
@@ -78,6 +96,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-06-29 18:38:33 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/ak74": {
+    "criteria": {
+      "has_planks": "2025-06-29 19:08:26 +0000"
     },
     "done": true
   },
@@ -267,6 +291,12 @@
     },
     "done": true
   },
+  "additionalguns:recipes/additionalguns/over_under": {
+    "criteria": {
+      "has_planks": "2025-06-29 19:08:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-06-29 18:38:02 +0000"
@@ -312,6 +342,12 @@
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-06-29 18:38:02 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/python": {
+    "criteria": {
+      "has_planks": "2025-06-29 19:08:26 +0000"
     },
     "done": true
   },
