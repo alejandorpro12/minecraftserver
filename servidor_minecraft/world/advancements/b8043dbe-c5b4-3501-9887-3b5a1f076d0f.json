@@ -1,0 +1,30 @@
+{
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-06-29 18:25:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-06-29 18:25:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:birch_forest": "2025-06-29 18:25:00 +0000",
+      "minecraft:dark_forest": "2025-06-29 18:27:26 +0000",
+      "minecraft:grove": "2025-06-29 18:26:29 +0000",
+      "minecraft:meadow": "2025-06-29 18:25:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-06-29 18:25:33 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}
