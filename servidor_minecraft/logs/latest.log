@@ -330,3 +330,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Jun2025 03:36:40.367] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: polentacontuco[/127.183.230.69:45825] logged in with entity id 98 at (-310.86250001192093, 71.0, 391.60576920419925)
 [30Jun2025 03:36:40.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polentacontuco joined the game
 [30Jun2025 03:41:05.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polentacontuco has made the advancement [Suit Up]
+[30Jun2025 03:57:57.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polentacontuco: The difficulty has been set to Hard]
+[30Jun2025 04:00:51.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polentacontuco was slain by entity.mimicer.mimicer
