@@ -326,3 +326,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Jun2025 00:11:07.973] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: polentacontuco[/127.183.230.69:42147] logged in with entity id 188 at (110.69999998807907, 128.0, -33.69999998807907)
 [30Jun2025 00:11:08.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polentacontuco joined the game
 [30Jun2025 00:14:09.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polentacontuco has made the advancement [Getting an Upgrade]
+[30Jun2025 00:23:56.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polentacontuco has made the advancement [Monster Hunter]
+[30Jun2025 00:32:12.675] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: polentacontuco moved too quickly! -6.308502807399606,1.2491870787446828,7.696393775203532
+[30Jun2025 00:32:39.820] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: polentacontuco lost connection: Timed out
+[30Jun2025 00:32:39.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polentacontuco left the game
+[30Jun2025 00:32:39.916] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30Jun2025 00:32:53.822] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@927936d
+[30Jun2025 00:32:53.826] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: polentacontuco[/127.183.230.69:33945] logged in with entity id 4768 at (-214.8627020527903, 65.16610926093821, 74.75579589889313)
+[30Jun2025 00:32:53.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polentacontuco joined the game
+[30Jun2025 00:36:23.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polentacontuco has made the advancement [Acquire Hardware]
