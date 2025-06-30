@@ -1598,3 +1598,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Jun2025 00:36:17.907] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$bygonenether_angerNearbyPiglins$1(Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/entity/monster/piglin/PiglinBrute;)V to md7a1fed$lambda$bygonenether_angerNearbyPiglins$1$0 in bygonenether.mixins.json:ModifyPiglinAi
 [30Jun2025 00:36:17.907] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$bygonenether_angerNearbyPiglins$0(ZLnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/entity/monster/piglin/PiglinBrute;)Z to md7a1fed$lambda$bygonenether_angerNearbyPiglins$0$1 in bygonenether.mixins.json:ModifyPiglinAi
 [30Jun2025 00:36:23.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polentacontuco has made the advancement [Acquire Hardware]
+[30Jun2025 00:40:01.031] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jun2025 00:40:01.035] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jun2025 00:45:01.030] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jun2025 00:45:01.033] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
