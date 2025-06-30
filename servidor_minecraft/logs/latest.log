@@ -335,3 +335,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Jun2025 00:32:53.826] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: polentacontuco[/127.183.230.69:33945] logged in with entity id 4768 at (-214.8627020527903, 65.16610926093821, 74.75579589889313)
 [30Jun2025 00:32:53.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polentacontuco joined the game
 [30Jun2025 00:36:23.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polentacontuco has made the advancement [Acquire Hardware]
+[30Jun2025 00:59:27.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[30Jun2025 00:59:27.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30Jun2025 00:59:27.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30Jun2025 00:59:27.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30Jun2025 00:59:29.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[30Jun2025 00:59:29.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[30Jun2025 00:59:29.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[30Jun2025 00:59:29.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[30Jun2025 00:59:29.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Jun2025 00:59:29.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30Jun2025 00:59:29.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[30Jun2025 00:59:29.910] [Server thread/INFO] [Framework/]: Unloading server configs...
