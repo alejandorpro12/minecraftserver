@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-06-30 04:11:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-30 00:54:01 +0000"
@@ -290,6 +296,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-06-30 00:24:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-06-30 04:11:45 +0000"
     },
     "done": true
   },
@@ -463,15 +475,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-06-30 03:53:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-30 03:47:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-30 03:53:32 +0000"
     },
     "done": true
   },
@@ -589,6 +601,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-06-30 04:11:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-06-29 18:40:00 +0000"
@@ -622,6 +640,12 @@
   "additionalguns:recipes/additionalguns/awm": {
     "criteria": {
       "has_iron_ingot": "2025-06-30 00:36:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-06-30 04:11:45 +0000"
     },
     "done": true
   },
@@ -823,6 +847,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-06-30 04:11:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-06-30 04:11:45 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/mac10": {
     "criteria": {
       "has_iron_ingot": "2025-06-30 00:36:23 +0000"
@@ -841,6 +877,12 @@
       "minecraft:zombie": "2025-06-30 00:23:56 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-06-30 04:11:45 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
@@ -974,6 +1016,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-06-30 04:11:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-06-30 00:14:09 +0000"
@@ -989,6 +1037,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-30 03:53:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-06-30 04:11:45 +0000"
     },
     "done": true
   },
@@ -1160,6 +1214,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-06-30 04:11:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-30 03:47:23 +0000"
@@ -1253,6 +1313,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-30 00:54:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-30 04:07:21 +0000"
     },
     "done": true
   },
@@ -1442,6 +1508,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-06-30 04:11:24 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/ak12": {
     "criteria": {
       "has_iron_ingot": "2025-06-30 00:36:23 +0000"
@@ -1532,15 +1604,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-06-30 03:53:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-30 03:47:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-30 03:53:48 +0000"
     },
     "done": true
   },
@@ -1631,6 +1703,7 @@
       "minecraft:grove": "2025-06-29 18:26:29 +0000",
       "minecraft:jagged_peaks": "2025-06-29 22:10:43 +0000",
       "minecraft:forest": "2025-06-30 00:16:27 +0000",
+      "minecraft:lush_caves": "2025-06-30 04:09:02 +0000",
       "minecraft:ocean": "2025-06-30 00:36:09 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-29 18:38:00 +0000",
       "minecraft:meadow": "2025-06-29 18:25:20 +0000"
@@ -1787,6 +1860,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-06-30 04:11:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-06-30 00:24:53 +0000"
@@ -1874,6 +1953,12 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-06-30 00:42:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-06-30 04:11:45 +0000"
     },
     "done": true
   },

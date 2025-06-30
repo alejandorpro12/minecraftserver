@@ -332,3 +332,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Jun2025 03:41:05.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polentacontuco has made the advancement [Suit Up]
 [30Jun2025 03:57:57.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [polentacontuco: The difficulty has been set to Hard]
 [30Jun2025 04:00:51.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polentacontuco was slain by entity.mimicer.mimicer
+[30Jun2025 04:07:21.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polentacontuco has made the advancement [Not Today, Thank You]
+[30Jun2025 04:08:24.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: polentacontuco moved too quickly! -8.042219115913632,-6.0,0.03335618809315832
+[30Jun2025 04:09:01.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polentacontuco fell from a high place
+[30Jun2025 04:09:26.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polentacontuco fell from a high place
+[30Jun2025 04:11:24.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polentacontuco has made the advancement [Isn't It Iron Pick]
+[30Jun2025 04:11:45.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polentacontuco has made the advancement [Diamonds!]
+[30Jun2025 04:12:43.505] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: polentacontuco lost connection: Timed out
+[30Jun2025 04:12:43.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polentacontuco left the game
+[30Jun2025 04:12:43.554] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30Jun2025 04:12:59.659] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1d3cea3[id=<null>,name=polentacontuco,properties={},legacy=false] (/127.183.230.69:34149) lost connection: Disconnected
+[30Jun2025 04:13:40.049] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@585f60d8[id=<null>,name=polentacontuco,properties={},legacy=false] (/127.183.230.69:38679) lost connection: Disconnected
+[30Jun2025 04:13:59.263] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5e4466f9
+[30Jun2025 04:13:59.268] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: polentacontuco[/127.183.230.69:36055] logged in with entity id 8342 at (-78.7405849865244, -4.8954956995473315, 54.05769654783761)
+[30Jun2025 04:13:59.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polentacontuco joined the game
+[30Jun2025 04:14:06.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polentacontuco drowned
+[30Jun2025 04:14:32.504] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: polentacontuco lost connection: Disconnected
+[30Jun2025 04:14:32.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: polentacontuco left the game
